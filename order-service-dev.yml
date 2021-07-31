@@ -15,5 +15,5 @@ eureka:
     service-url: #注册中心对外暴露的注册地址
       defaultZone: http://localhost:8761/eureka/,http://localhost:8762/eureka/
 
-name: order-service-dev
+name: order-service-dev-2.0
 password: '{cipher}2625125706b664c3985f6de8d2b1330c63d44727977efd45e1261c7b5e40aee4'
